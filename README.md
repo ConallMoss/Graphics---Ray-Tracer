@@ -1,7 +1,7 @@
 # Graphics: Ray Tracer
 Coursework for University Introduction to Graphics course
 
-Task: Build Ray Tracing engine to create 2D image from 3D scene, including accurate lighting, shadows and reflections
+Task: Build Ray Tracing engine to create 2D image from 3D scene, including accurate lighting with Phong illumination model, shadows and (recursive) reflections 
 
 Ray Tracing engine for University Graphics course
 
